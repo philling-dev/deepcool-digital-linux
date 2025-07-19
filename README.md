@@ -6,7 +6,7 @@
 ![Platform](https://img.shields.io/badge/platform-Linux-green.svg)
 ![Distro](https://img.shields.io/badge/distro-Ubuntu%20%7C%20Debian%20%7C%20Mint-orange.svg)
 ![Version](https://img.shields.io/badge/version-1.0.0-brightgreen.svg)
-![GitHub stars](https://img.shields.io/github/stars/tharks123/deepcool-ak500s-linux?style=social)
+![GitHub stars](https://img.shields.io/github/stars/philling-dev/deepcool-digital-linux?style=social)
 
 **Professional Linux driver for Deepcool Digital CPU coolers**  
 *Real-time CPU temperature display on your cooler's built-in screen*
@@ -68,7 +68,7 @@
 ### **🚀 Method 1: Debian Package (Recommended)**
 ```bash
 # Download the latest release
-wget https://github.com/tharks123/deepcool-ak500s-linux/releases/latest/download/deepcool-ak500s-digital_1.0.0_amd64.deb
+wget https://github.com/philling-dev/deepcool-digital-linux/releases/latest/download/deepcool-ak500s-digital_1.0.0_amd64.deb
 
 # Install the package
 sudo dpkg -i deepcool-ak500s-digital_1.0.0_amd64.deb
@@ -80,7 +80,7 @@ sudo systemctl start deepcool-digital
 ### **⚡ Method 2: Automated Script**
 ```bash
 # One-line installation
-curl -fsSL https://raw.githubusercontent.com/tharks123/deepcool-ak500s-linux/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/philling-dev/deepcool-digital-linux/main/install.sh | bash
 ```
 
 ### **🔧 Method 3: Manual Build**
@@ -263,10 +263,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📊 **Project Statistics**
 
-![GitHub stars](https://img.shields.io/github/stars/tharks123/deepcool-ak500s-linux?style=social)
-![GitHub forks](https://img.shields.io/github/forks/tharks123/deepcool-ak500s-linux?style=social)
-![GitHub issues](https://img.shields.io/github/issues/tharks123/deepcool-ak500s-linux)
-![GitHub downloads](https://img.shields.io/github/downloads/tharks123/deepcool-ak500s-linux/total)
+![GitHub stars](https://img.shields.io/github/stars/philling-dev/deepcool-digital-linux?style=social)
+![GitHub forks](https://img.shields.io/github/forks/philling-dev/deepcool-digital-linux?style=social)
+![GitHub issues](https://img.shields.io/github/issues/philling-dev/deepcool-digital-linux)
+![GitHub downloads](https://img.shields.io/github/downloads/philling-dev/deepcool-digital-linux/total)
 
 ---
 
@@ -274,6 +274,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **⭐ If this project helped you, please give it a star! ⭐**
 
-*Made with ❤️ for the Linux community by [Guilherme Campos](https://github.com/tharks123)*
+*Made with ❤️ for the Linux community by [Guilherme Campos](https://github.com/philling-dev)*
 
 </div>
