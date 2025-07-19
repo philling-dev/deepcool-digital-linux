@@ -274,6 +274,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **⭐ If this project helped you, please give it a star! ⭐**
 
-*Made with ❤️ for the Linux community by [Guilherme Campos](https://github.com/philling-dev)*
+*Made with ❤️ for the Linux (https://github.com/philling-dev)*
 
 </div>
