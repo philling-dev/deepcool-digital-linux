@@ -209,15 +209,14 @@ sudo systemctl daemon-reload
 
 If this driver has been helpful to you, please consider supporting its continued development!
 
-<div align="center">
+### ☕ Buy me a coffee
+- **[coff.ee/philling](https://coff.ee/philling)**
 
-### **☕ Buy me a coffee**
-**coff.ee/philling**
-
-### **🪙 Bitcoin**
-**Address:** `1Lyy8GJignLbTUoTkR1HKSe8VTkzAvBMLm`
-
-</div>
+### 🪙 Bitcoin
+To donate, copy the address below:
+```
+1Lyy8GJignLbTUoTkR1HKSe8VTkzAvBMLm
+```
 
 ### **🎯 How Your Support Helps**
 - 🔧 **Development** of new features and improvements
