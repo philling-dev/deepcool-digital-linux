@@ -265,3 +265,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 *Made with ❤️ for the Linux (https://github.com/philling-dev)*
 
 </div>
+
+**Keywords:** `linux`, `deepcool`, `cpu cooler`, `driver`, `temperature`, `monitoring`, `digital display`, `ak500s`, `ak400`, `ak620`, `ag400`, `ag620`, `ld240`, `ld360`, `systemd`, `hardware control`
