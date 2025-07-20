@@ -211,24 +211,13 @@ If this driver has been helpful to you, please consider supporting its continued
 
 <div align="center">
 
-### **💳 Donation Methods**
+### **☕ Buy me a coffee**
+**coff.ee/philling**
 
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](mailto:guicampos1992@gmail.com)
-[![Bitcoin](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)](#bitcoin)
-[![PIX](https://img.shields.io/badge/PIX-32BCAD?style=for-the-badge&logo=pix&logoColor=white)](#pix-brazil)
+### **🪙 Bitcoin**
+**Address:** `1Lyy8GJignLbTUoTkR1HKSe8VTkzAvBMLm`
 
 </div>
-
-### **Payment Details**
-
-#### **PayPal**
-Email: `guicampos1992@gmail.com`
-
-#### **Bitcoin**
-Address: `1Lyy8GJignLbTUoTkR1HKSe8VTkzAvBMLm`
-
-#### **PIX (Brazil)**
-Key: `7b1e2d82-ae62-40cf-bdb1-1c791832bd99`
 
 ### **🎯 How Your Support Helps**
 - 🔧 **Development** of new features and improvements
